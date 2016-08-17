@@ -27,7 +27,8 @@ Imports:
     xml2,
     xmlparsedata (>= 1.0.1)
 Remotes: MangoTheCat/cyclocomp,
-    MangoTheCat/xmlparsedata
+    MangoTheCat/xmlparsedata,
+    richelbilderbeek/goodpracticeeighteen
 Collate:
     'api.R'
     'lists.R'
@@ -35,6 +36,7 @@ Collate:
     'chk_cyclocomp.R'
     'chk_description.R'
     'chk_lintr.R'
+    'chk_man_examples.R'
     'chk_namespace.R'
     'chk_rcmdcheck.R'
     'chk_tnf.R'
@@ -46,6 +48,7 @@ Collate:
     'prep_description.R'
     'prep_expressions.R'
     'prep_lintr.R'
+    'prep_man_examples.R'
     'prep_namespace.R'
     'prep_rcmdcheck.R'
     'print.R'
